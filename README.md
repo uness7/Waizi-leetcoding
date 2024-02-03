@@ -6,7 +6,7 @@ LeetCoding
 
 ## Description
 
-I'm trying to solve as many leetCode problems as I can during my study period at 42 school so that I will be ready for interviews. I save my work on this public repo maybe it can help someone! ⭐
+I'm trying to solve as many leetCode problems as I can during my study period at 42 school so that I can be ready for interviews afterwards. I save my work on this public repo maybe it can help someone! ⭐
 
 ## License
 
