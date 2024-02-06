@@ -15,6 +15,5 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## Contact
 
 - Author Name: [Youness Zioual](https://github.com/uness7)
-- Project Repository: [Project Name](https://github.com/uness7/waizi-leetCoding)
-- Additional Contact Information: (Optional)
+- Project Repository: [Waizi-leetCoding](https://github.com/uness7/waizi-leetCoding)
 
